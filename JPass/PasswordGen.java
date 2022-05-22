@@ -9,7 +9,7 @@ public class PasswordGen {
 
         System.out.println("PassGen: The ultimate password generator - Developed by Sami Elsayed 2022 \nType a digit to generate a password:");
 
-        // The 
+        // User types a random number
         int digit = input.nextInt();
 
         // All of the characters for the generator
