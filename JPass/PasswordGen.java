@@ -1,5 +1,5 @@
 // This was coded by Sami Elsayed 
-// PassGen - the ultimate password generator
+// JPassword - the ultimate password generator
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ public class PasswordGen {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("PassGen: The ultimate password generator - Developed by Sami Elsayed 2022 \nType a digit to generate a password:");
+        System.out.println("JPassword: The ultimate password generator - Developed by Sami Elsayed 2022 \nType a digit to generate a password:");
 
         // User types a random number
         int digit = input.nextInt();
